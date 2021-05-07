@@ -1,4 +1,4 @@
-# Random-Plot-Graph-in-Java
+# (Java) Random-Plot-Graph
 
 ## Description
 
